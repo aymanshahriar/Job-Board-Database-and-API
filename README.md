@@ -5,4 +5,4 @@ The API is implemented using PHP PDO, and the Database Management System used is
 
 Here is a link to the API documentation: https://documenter.getpostman.com/view/10644681/Szf24qLW
 
-For details of how this project was implemented and the list of API endpoints, please take a look at the project description document
+For details of how this project was implemented and the list of API endpoints, please take a look at the project description document. In addition, an Entity Relation diagram and Relational Model have been created to communicate the structure of the database
